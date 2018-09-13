@@ -1,0 +1,4 @@
+﻿  Assembling main.asm...
+main.asm(450): warning A6001: no return from procedure
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  MASM_server.vcxproj -> C:\Users\fszat\source\repos\MASM_server\Release\MASM_server.exe

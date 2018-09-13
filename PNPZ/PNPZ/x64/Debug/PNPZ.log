@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  PNPZ.cpp
+c:\users\fszat\source\repos\pnpz\pnpz\pnpz.cpp(57): warning C4806: '!=': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+PNPZ.obj : error LNK2019: unresolved external symbol accept referenced in function main
+PNPZ.obj : error LNK2019: unresolved external symbol bind referenced in function main
+PNPZ.obj : error LNK2019: unresolved external symbol closesocket referenced in function main
+PNPZ.obj : error LNK2019: unresolved external symbol htonl referenced in function main
+PNPZ.obj : error LNK2019: unresolved external symbol htons referenced in function main
+PNPZ.obj : error LNK2019: unresolved external symbol listen referenced in function main
+PNPZ.obj : error LNK2019: unresolved external symbol socket referenced in function main
+PNPZ.obj : error LNK2019: unresolved external symbol WSAStartup referenced in function main
+PNPZ.obj : error LNK2019: unresolved external symbol WSAGetLastError referenced in function main
+C:\Users\fszat\source\repos\PNPZ\x64\Debug\PNPZ.exe : fatal error LNK1120: 9 unresolved externals

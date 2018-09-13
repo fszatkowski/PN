@@ -1,0 +1,66 @@
+﻿  Assembling main.asm...
+main.asm(2): error A2008: syntax error : .
+main.asm(4): error A2008: syntax error : .
+c:\masm32\include\windows.inc(9750): error A2008: syntax error : dword
+c:\masm32\include\windows.inc(10183): error A2008: syntax error : frame
+c:\masm32\include\windows.inc(16333): error A2008: syntax error : dword
+c:\masm32\include\windows.inc(18862): error A2008: syntax error : Frame
+c:\masm32\include\winextra.inc(11052): error A2026: constant expected
+c:\masm32\include\winextra.inc(11053): error A2026: constant expected
+c:\masm32\include\masm32.inc(36): error A2008: syntax error : fpin
+c:\masm32\include\masm32.inc(37): error A2008: syntax error : fpin
+c:\masm32\include\masm32.inc(38): error A2008: syntax error : szIn
+main.asm(69): error A2008: syntax error : invoke
+main.asm(73): error A2008: syntax error : invoke
+main.asm(74): error A2044: invalid character in file
+main.asm(75): error A2008: syntax error : invoke
+main.asm(77): error A2008: syntax error : .
+main.asm(78): error A2008: syntax error : invoke
+main.asm(79): error A2008: syntax error : .
+main.asm(83): error A2008: syntax error : if
+main.asm(85): error A2008: syntax error : .
+main.asm(86): error A2008: syntax error : invoke
+main.asm(88): error A2008: syntax error : .
+main.asm(92): error A2008: syntax error : invoke
+main.asm(93): error A2008: syntax error : invoke
+main.asm(94): error A2008: syntax error : if
+main.asm(95): error A2008: syntax error : invoke
+main.asm(96): error A2008: syntax error : invoke
+main.asm(98): error A2008: syntax error : invoke
+main.asm(100): error A2008: syntax error : .
+main.asm(102): error A2008: syntax error : .
+main.asm(108): error A2008: syntax error : invoke
+main.asm(115): error A2008: syntax error : bind
+main.asm(116): error A2008: syntax error : if
+main.asm(117): error A2008: syntax error : invoke
+main.asm(118): error A2008: syntax error : invoke
+main.asm(120): error A2008: syntax error : invoke
+main.asm(122): error A2008: syntax error : .
+main.asm(125): error A2008: syntax error : invoke
+main.asm(126): error A2008: syntax error : if
+main.asm(127): error A2008: syntax error : invoke
+main.asm(128): error A2008: syntax error : invoke
+main.asm(130): error A2008: syntax error : invoke
+main.asm(132): error A2008: syntax error : .
+main.asm(136): error A2008: syntax error : invoke
+main.asm(137): error A2008: syntax error : if
+main.asm(138): error A2008: syntax error : invoke
+main.asm(139): error A2008: syntax error : invoke
+main.asm(141): error A2008: syntax error : invoke
+main.asm(142): error A2008: syntax error : .
+main.asm(144): error A2008: syntax error : .
+main.asm(149): error A2008: syntax error : invoke
+main.asm(150): error A2008: syntax error : if
+main.asm(151): error A2008: syntax error : invoke
+main.asm(152): error A2008: syntax error : invoke
+main.asm(154): error A2008: syntax error : invoke
+main.asm(155): error A2008: syntax error : .
+main.asm(159): error A2008: syntax error : invoke
+main.asm(160): error A2044: invalid character in file
+main.asm(161): error A2008: syntax error : invoke
+main.asm(162): error A2008: syntax error : .
+main.asm(163): error A2008: syntax error : invoke
+main.asm(164): error A2008: syntax error : .
+main.asm(166): error A2008: syntax error : start
+main.asm(166): error A2088: END directive required at end of file
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\BuildCustomizations\masm.targets(69,5): error MSB3721: The command "ml64.exe /c /nologo /Zi /Fo"x64\Debug\main.obj" /W3 /errorReport:prompt  /Tamain.asm" exited with code 1.
